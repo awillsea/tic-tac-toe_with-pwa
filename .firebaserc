@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "adroit-particle-363020": {
+      "hosting": {
+        "Tic-Tac-Toe": [
+          "adroit-particle-363020"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "adroit-particle-363020"
+  }
+}
